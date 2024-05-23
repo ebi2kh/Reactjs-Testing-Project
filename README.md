@@ -150,4 +150,4 @@ Use [npm-check](https://koalatea.io/how-to-update-all-your-npm-packages-at-once)
 
 ## Idea:
 
-The idea is from [freecodecamp.com](https://koalatea.io/how-to-update-all-your-npm-packages-at-once)
+The idea is from [freecodecamp.com](https://www.youtube.com/watch?v=8vfQ6SWBZ-U)
